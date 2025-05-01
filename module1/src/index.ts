@@ -12,8 +12,8 @@ let y: null = null
 let d;
 
 // Non Primitive Data Types
-// Array
 
+// Array
 let friends: string[] = ['HASAN', 'HRIDAY']
 let eligibleRollList: number[] = [1,2];
 
