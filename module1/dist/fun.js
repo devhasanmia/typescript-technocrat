@@ -16,6 +16,6 @@ const person = {
         return this.balance + b;
     }
 };
-const arr = [2, 20, 30];
+const arr = [10, 20, 30];
 const newArr = arr.map((ele) => ele * ele);
 console.log(newArr);
