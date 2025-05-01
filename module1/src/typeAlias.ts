@@ -8,8 +8,6 @@
         contactNo?: string
     }
 
-
-
 const student1: Student = {
     name: "SDf",
     age: 50,
